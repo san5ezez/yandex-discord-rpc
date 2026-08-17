@@ -1,0 +1,13 @@
+{
+  "name": "yandex-music-discord-rpc-bridge",
+  "version": "1.0.0",
+  "private": true,
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": { "start": "node start.js" },
+  "dependencies": {
+    "@xhayper/discord-rpc": "^1.3.4",
+    "dotenv": "^16.4.5",
+    "ws": "^8.18.0"
+  }
+}
